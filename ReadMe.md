@@ -1,4 +1,4 @@
-#Competitve Coding with C++
+# Competitve Coding with C++
 
 <img src="images/LeetCode_Sharing.png" style=" height:200px; width:200px; padding:5px;"/>
 
@@ -8,7 +8,7 @@
 
 <img src="images/HackerRank_Icon-1000px.png" style="height:200px;width:200px;padding:5px;"/>
 
-###"This repository consists of competitive coding problems-solutions implemented in C++"
+### "This repository consists of competitive coding problems-solutions implemented in C++"
 
 | Website | Number of Questions |
 | ----------- | ----------- |
