@@ -1,4 +1,4 @@
-# Copetitive Coding with C++
+# Competitive Coding with C++
 
 ## This repository consists of problems from following platforms & solutions implemented in c++ 
 ![](images/HackerRank_Icon-1000px.png )
