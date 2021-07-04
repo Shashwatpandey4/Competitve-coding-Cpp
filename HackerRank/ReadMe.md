@@ -16,3 +16,4 @@
 
 7. [Arrays](https://www.hackerrank.com/challenges/arrays-introduction/problem?h_r=next-challenge&h_v=zen)
 
+8. [Variable sized Array](https://www.hackerrank.com/challenges/variable-sized-arrays/forum)
